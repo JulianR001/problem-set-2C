@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FormulaDriver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=args
+comment2.target=void\ MySlope(java.lang.String[])
+comment3.params=args
+comment3.target=void\ FindMidpoint(java.lang.String[])
+comment4.params=args
+comment4.target=void\ ArithmeticSeries(java.lang.String[])
+comment5.params=args
+comment5.target=void\ GeometricSeries(java.lang.String[])
+comment6.params=args
+comment6.target=void\ DiceRoll(java.lang.String[])
+numComments=7
